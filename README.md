@@ -25,6 +25,8 @@
 3. Rode `yarn install` para instalar as dependências;
 4. Altere as credencias dentro de `/src/config/config.js`;
 5. Rode `expo start` para iniciar.
+
+### 🎲 Rodando o Back End (servidor)
 6. Faça um clone do servidor node [favTvShow-server](https://github.com/thaisvilarinho/favTvShow-server.git) e siga os passos que estão no repositório;
 
 ##  TV MAZE API
