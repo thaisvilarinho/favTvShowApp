@@ -44,12 +44,6 @@ As imagens utlizadas são apenas ilustrativas
 ### Autora
 
 
-<a href="https://github.com/thaisvilarinho">
- <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/47863628?s=460&u=2681423d3eb11362f8a8039dff5111f7d153a459&v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Thaís Apª Vilarinho de Jesus</b></sub></a> 
-
-
 Feito com ❤️ por Thaís Apª Vilarinho de Jesus  👋🏽 Entre em contato!
 
 [![Gmail Badge](https://img.shields.io/badge/-thaisapvil@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thaisapvil@gmail.com)](mailto:thaisapvil@gmail.com)
