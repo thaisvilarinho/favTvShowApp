@@ -41,7 +41,7 @@ As imagens utlizadas são apenas ilustrativas
 
 ---
 
-<img src="https://j.gifs.com/P7O9vz.gif" width="40" height="40" />
+<img src="https://j.gifs.com/mODgw3.gif" width="100" height="100" />
 
 ---
 ### Autora
