@@ -1,6 +1,10 @@
 <h1 align='center'>💻 Sobre o projeto</h1>
 <p align='center'>Repositório criado como forma de trabalho para a disciplina de Dispositivos Móveis - IFTM - Campus Ituiutaba/MG no 4º período do curso de Análise e Desenvolvimento de Sistemas.</p>
 
+<h4 align="center"> 
+	🚧  React Select 🚀 Em construção... 🚧
+</h4>
+
 ## 🚀 Tecnologias
 
 -  [React Native](https://reactnative.dev/)
