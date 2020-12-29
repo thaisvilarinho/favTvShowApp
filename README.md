@@ -6,9 +6,6 @@
 	
 </h4>
 
-
- <img style="border-radius: 50%;" src="https://j.gifs.com/P7O9vz.gif" width="600px;" alt=""/>
-
 ## 🚀 Tecnologias
 
 -  [React Native](https://reactnative.dev/)
@@ -41,6 +38,11 @@ Toda a documentação da API do <b>TV Maze</b> pode ser acessada em [https.tvmaz
 ## Direitos Autorais
 
 As imagens utlizadas são apenas ilustrativas 
+
+---
+
+
+ <img style="border-radius: 50%;" src="https://j.gifs.com/P7O9vz.gif" width="600px;" alt=""/>
 
 
 ---
