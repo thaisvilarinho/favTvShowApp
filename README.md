@@ -20,7 +20,7 @@
 3. Rode `yarn install` para instalar as dependências;
 4. Altere as credencias dentro de `/src/config/config.js`;
 5. Rode `expo start` para iniciar.
-6. Faça um clone do servidor node [favTvShowApp](https://github.com/thaisvilarinho/favTvShow-server.git) e siga os passos que estão no repositório;
+6. Faça um clone do servidor node [favTvShow-server](https://github.com/thaisvilarinho/favTvShow-server.git) e siga os passos que estão no repositório;
 
 
 ---
