@@ -40,7 +40,8 @@ Toda a documentação da API do <b>TV Maze</b> pode ser acessada em [https.tvmaz
 As imagens utlizadas são apenas ilustrativas 
 
 ---
-<img src='gifs.com/gif/appfavtvshowreactnative-6X3v57' />
+
+ <img style="border-radius: 50%;" src="https://j.gifs.com/P7O9vz.gif" width="800px;" alt=""/>
 
 ---
 ### Autora
