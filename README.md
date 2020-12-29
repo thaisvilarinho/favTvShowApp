@@ -3,7 +3,6 @@
 
 <h4 align="center"> 
 	🚧  Em construção... ainda há melhorias sendo implementadas 🚧
-	[![forthebadge](https://forthebadge.com/images/badges/30-percent-optimized.svg)](https://forthebadge.com)
 	
 </h4>
 
