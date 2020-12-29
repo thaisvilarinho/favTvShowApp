@@ -6,6 +6,9 @@
 	
 </h4>
 
+
+ <img style="border-radius: 50%;" src="https://j.gifs.com/P7O9vz.gif" width="800px;" alt=""/>
+
 ## 🚀 Tecnologias
 
 -  [React Native](https://reactnative.dev/)
