@@ -2,7 +2,7 @@
 <p align='center'>Repositório criado como forma de trabalho para a disciplina de Dispositivos Móveis - IFTM - Campus Ituiutaba/MG no 4º período do curso de Análise e Desenvolvimento de Sistemas.</p>
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção... 🚧
+	🚧  Em construção... ainda há melhorias sendo implementadas 🚧
 </h4>
 
 ## 🚀 Tecnologias
