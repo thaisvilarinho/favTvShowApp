@@ -40,8 +40,8 @@ Toda a documentação da API do <b>TV Maze</b> pode ser acessada em [https.tvmaz
 As imagens utlizadas são apenas ilustrativas 
 
 ---
-<iframe src="//gifs.com/embed/appreactnative-P7O9vz" frameborder="0" scrolling="no" width="1920px" height="1080px" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);"></iframe>
 
+ <img style="border-radius: 50%" src="https://j.gifs.com/P7O9vz.gif" width="600px;" alt=""/>
 
 
 ---
