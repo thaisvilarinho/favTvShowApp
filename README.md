@@ -40,9 +40,9 @@ Toda a documentação da API do <b>TV Maze</b> pode ser acessada em [https.tvmaz
 As imagens utlizadas são apenas ilustrativas 
 
 ---
-
-<img src="https://j.gifs.com/mODgw3.gif" width="100" height="100" />
-
+<div align="center">
+	<img src="https://j.gifs.com/mODgw3.gif" />
+</div>
 ---
 ### Autora
 
