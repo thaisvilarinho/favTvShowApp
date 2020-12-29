@@ -41,8 +41,7 @@ As imagens utlizadas são apenas ilustrativas
 
 ---
 
-  ![Alt Text](https://j.gifs.com/P7O9vz.gif)
- 
+<img src="https://j.gifs.com/P7O9vz.gif" width="40" height="40" />
 
 ---
 ### Autora
