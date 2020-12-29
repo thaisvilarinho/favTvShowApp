@@ -37,7 +37,7 @@ Toda a documentação da API do <b>TV Maze</b> pode ser acessada em [https.tvmaz
 
 ## Direitos Autorais
 
-As imagens utlizadas são apenas ilustrativas não 
+As imagens utlizadas são apenas ilustrativas 
 
 
 ---
