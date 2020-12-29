@@ -41,7 +41,7 @@ As imagens utlizadas são apenas ilustrativas
 
 ---
 
- <img style="border-radius: 50%;" src="https://j.gifs.com/6X3v57.gif" width="800px;" alt=""/>
+<div style='position:relative;padding-bottom:56.262%;'><iframe src="//gifs.com/embed/appfavtvshowreactnative-6X3v57" frameborder="0" scrolling="no" width="1022" height="575" style="backface-visibility: hidden; transform: scale(1); position: absolute; height: 100%; width: 100%;"></iframe></div>
 
 ---
 ### Autora
