@@ -29,7 +29,7 @@
 ### 🎲 Rodando o Back End (servidor)
 6. Faça um clone do servidor node [favTvShow-server](https://github.com/thaisvilarinho/favTvShow-server.git) e siga os passos que estão no repositório;
 
-##  TV MAZE API
+## ✨ TV MAZE API
  Este repositório agrega funcionalidades vinculadas a api do site  <b>TV Maze</b>. Este site oferece uma API REST gratuita e possui um grande acervo de informações sobre vários programas de TV ao redor do globo.
 
  
