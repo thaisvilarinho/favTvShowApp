@@ -3,6 +3,8 @@
 
 <h4 align="center"> 
 	🚧  Em construção... ainda há melhorias sendo implementadas 🚧
+	[![forthebadge](https://forthebadge.com/images/badges/30-percent-optimized.svg)](https://forthebadge.com)
+	
 </h4>
 
 ## 🚀 Tecnologias
@@ -25,6 +27,16 @@
 4. Altere as credencias dentro de `/src/config/config.js`;
 5. Rode `expo start` para iniciar.
 6. Faça um clone do servidor node [favTvShow-server](https://github.com/thaisvilarinho/favTvShow-server.git) e siga os passos que estão no repositório;
+
+##  TV MAZE API
+ Este repositório agrega funcionalidades vinculadas a api do site  <b>TV Maze</b>. Este site oferece uma API REST gratuita e possui um grande acervo de informações sobre vários programas de TV ao redor do globo.
+
+ 
+Toda a documentação da API do <b>TV Maze</b> pode ser acessada em [https.tvmaze.com/api](https://www.tvmaze.com/api). 
+
+## Direitos Autorais
+
+As imagens utlizadas são apenas ilustrativas não 
 
 
 ---
